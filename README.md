@@ -38,6 +38,9 @@ Aplikasi katalog produk profesional yang dibangun menggunakan React Native (Expo
 
 ---
 
+## 🔗 Demo
+[Cek di Expo Snack](https://snack.expo.dev/@crisdayanti/pertemuan-11)
+
 ## ⚙️ Cara Menjalankan
 
 ### 1. Prasyarat
@@ -53,8 +56,6 @@ npx expo install axios
 npm install axios @react-native-async-storage/async-storage
 npx expo start
 
-## 🔗 Demo
-[Cek di Expo Snack]https://snack.expo.dev/@crisdayanti/pertemuan-11
 
 
 
