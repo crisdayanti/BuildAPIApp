@@ -37,6 +37,8 @@ Aplikasi katalog produk profesional yang dibangun menggunakan React Native (Expo
 | [Tampilan Memuat (Loading)](![alt text](image.png)) | [Sukses (Katalog Produk)](![alt text](image-1.png)) | [Detail Produk](![alt text](image-2.png)) | [Produk Tidak Ditemukan](![alt text](image-3.png)) | [Error](![alt text](image-4.png)) |
 
 ---
+## 🔗 Demo
+[Cek di Expo Snack] (https://snack.expo.dev/@crisdayanti/pertemuan-11)
 
 ## ⚙️ Cara Menjalankan
 
@@ -46,13 +48,15 @@ Pastikan kamu telah menginstal [Node.js](https://nodejs.org/).
 ### 2. Instalasi
 Clone repositori ini dan masuk ke direktori proyek:
 ```bash
-git clone <url-repo-kamu>
+git clone (https://github.com/crisdayanti/BuildAPIApp.git)
 cd shopcatalog-ultra
 Bash
 npx expo install axios
 npm install axios @react-native-async-storage/async-storage
-Bash
 npx expo start
 
 ## 🔗 Demo
 [Cek di Expo Snack] (https://snack.expo.dev/@crisdayanti/pertemuan-11)
+
+
+
