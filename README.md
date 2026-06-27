@@ -32,9 +32,9 @@ Aplikasi katalog produk profesional yang dibangun menggunakan React Native (Expo
 
 ## 📸 Dokumentasi Aplikasi (Screenshots)
 
-| Tampilan Memuat (Loading) | Sukses | Detail | Kosong | Gangguan |
+| Tampilan Memuat (Loading) | Sukses | Detail | Produk Tidak Ditemukan | Error |
 | :---: | :---: | :---: | :---: | :---: |
-| (![alt text](image.png)) | [Sukses (Katalog Produk)](![alt text](image-1.png)) | [Detail Produk](![alt text](image-2.png)) | [Produk Tidak Ditemukan](![alt text](image-3.png)) | [Error](![alt text](image-4.png)) |
+| ![alt text](image.png) | ![alt text](image-1.png) | ![alt text](image-2.png) | ![alt text](image-3.png) | ![alt text](image-4.png) |
 
 ---
 
