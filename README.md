@@ -4,7 +4,7 @@ Aplikasi katalog produk profesional yang dibangun menggunakan React Native (Expo
 
 ## 📋 Checklist Rubrik Penilaian
 
-### 🟢 Level 1 — Fitur Wajib (7/7)
+### 🟢 Level 1 — Fitur Wajib 
 - [x] **Fetch Data:** Menggunakan `async/await` dengan Axios.
 - [x] **Mounting:** Implementasi `useEffect` dengan dependency array `[]`.
 - [x] **3 UI States:** Penanganan status *Loading*, *Error*, dan *Success*.
@@ -13,7 +13,7 @@ Aplikasi katalog produk profesional yang dibangun menggunakan React Native (Expo
 - [x] **Data Display:** Kartu item menampilkan gambar, judul, dan harga.
 - [x] **Retry System:** Fungsi untuk memanggil ulang API saat terjadi error.
 
-### 🟡 Level 2 — Pengembangan (6/6)
+### 🟡 Level 2 — Pengembangan 
 - [x] **Pull-to-Refresh:** Sinkronisasi data via `RefreshControl`.
 - [x] **Search / Filter:** *Client-side filtering* berdasarkan judul produk.
 - [x] **Layar Detail:** Modal interaktif untuk menampilkan deskripsi lengkap.
@@ -21,7 +21,7 @@ Aplikasi katalog produk profesional yang dibangun menggunakan React Native (Expo
 - [x] **Toggle Axios/Fetch:** Implementasi dua metode fetching di dalam satu aplikasi.
 - [x] **Empty State:** Notifikasi ramah pengguna saat data pencarian kosong.
 
-### 🔴 Level 3 — Tantangan Bonus (5/5)
+### 🔴 Level 3 — Tantangan Bonus 
 - [x] **Pagination:** *Infinite scroll* melalui `onEndReached`.
 - [x] **Favorit Lokal:** Implementasi penyimpanan data dengan `AsyncStorage`.
 - [x] **Sorting:** Pengurutan list (ditambahkan dalam logika filter).
@@ -34,7 +34,7 @@ Aplikasi katalog produk profesional yang dibangun menggunakan React Native (Expo
 
 | Memuat | Sukses | Detail | Kosong | Gangguan |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Tampilan Memuat (Loading)](![alt text](image.png)) | ![Sukses (Katalog Produk)](![alt text](image-1.png)) | ![Detail Produk](![alt text](image-2.png)) | ![Produk Tidak Ditemukan](![alt text](image-3.png)) | ![Error](![alt text](image-4.png)) |
+| [Tampilan Memuat (Loading)](![alt text](image.png)) | [Sukses (Katalog Produk)](![alt text](image-1.png)) | [Detail Produk](![alt text](image-2.png)) | [Produk Tidak Ditemukan](![alt text](image-3.png)) | [Error](![alt text](image-4.png)) |
 
 ---
 
