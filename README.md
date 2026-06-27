@@ -55,7 +55,3 @@ Bash
 npx expo install axios
 npm install axios @react-native-async-storage/async-storage
 npx expo start
-
-
-
-
